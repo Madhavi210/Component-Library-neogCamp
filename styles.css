@@ -3,7 +3,7 @@ body{
     font-family: 'montserrat';
     margin: 0px;
 }
-
+/**root**/
 :root{
     --primary-color: #7c3aed ;
     --dark-gray: #687268;
@@ -131,7 +131,7 @@ h2{
     background-color: var(--off-white);
 }
 
-/**footer**/
+/**footer **/
 .footer{
     background-color: var(--primary-color);
     padding: 2rem 1rem;
