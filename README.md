@@ -1,6 +1,6 @@
 # Practice-lesson03
 
-Comp
+Component
 
 ## brand colors
 
